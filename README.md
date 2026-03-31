@@ -1,2 +1,1 @@
-# guoguoword
-mine
+hello,果果的word。
